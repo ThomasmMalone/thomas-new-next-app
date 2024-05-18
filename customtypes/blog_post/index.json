@@ -1,6 +1,6 @@
 {
   "id": "blog_post",
-  "label": "Blog Post",
+  "label": "Blogs",
   "format": "page",
   "repeatable": true,
   "status": true,
